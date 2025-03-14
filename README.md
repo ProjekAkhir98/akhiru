@@ -1,0 +1,2 @@
+# akhiru
+ini projek akhir
